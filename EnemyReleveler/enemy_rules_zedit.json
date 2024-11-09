@@ -1,11 +1,11 @@
 {
   "BanditFaction": [
     [1, 28],
-    [10, 100]
+    [5, 100]
   ],
   "DraugrFaction": [
     [1, 45],
-    [16, 120]
+    [8, 120]
   ],
   "DLC2CultistFaction": [
     [1, 46],
@@ -13,7 +13,7 @@
   ],
   "DragonPriestFaction": [
     [50, 60],
-    [70, 250]
+    [60, 250]
   ],
   "BearFaction": [
     [12, 20],
@@ -21,7 +21,7 @@
   ],
   "ChaurusFaction": [
     [1, 50],
-    [16, 60]
+    [8, 60]
   ],
   "DwarvenAutomatonFaction": [
     [5, 38],
@@ -65,7 +65,7 @@
   ],
   "IceWraithFaction": [
     [1, 9],
-    [12, 20]
+    [6, 20]
   ],
   "MammothFaction": [
     [1, 38],
@@ -85,7 +85,7 @@
   ],
   "SkeletonFaction": [
     [1, 80],
-    [18, 80]
+    [8, 80]
   ],
   "SlaughterfishFaction": [
     [0, 1],
@@ -93,7 +93,7 @@
   ],
   "SprigganFaction": [
     [1, 30],
-    [8, 21]
+    [10, 21]
   ],
   "WerewolfFaction": [
     [1, 42],
